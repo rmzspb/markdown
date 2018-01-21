@@ -1,4 +1,4 @@
 module.exports = {
   port: 4099,
-  DB: 'mongodb://rmzspb:dushido1221@ds046037.mlab.com:46037/lab6'
+  DB: 'mongodb://anton:anton@ds046377.mlab.com:46377/sixdata'
 };
